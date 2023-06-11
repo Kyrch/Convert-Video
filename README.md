@@ -11,9 +11,9 @@ Create a context menu in Windows and convert a video to a specified format.
 
 **Install:**
 
-    `git clone https://github.com/Kyrch/Convert-Video.git`
+```git clone https://github.com/Kyrch/Convert-Video.git```
 
-    Execute __main__.py as admin.
+Execute ```__main__.py``` as admin.
 
 ### Details
 
