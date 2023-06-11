@@ -9,7 +9,7 @@ Create a context menu in Windows and convert a video to a specified format.
 * FFmpeg
 * Python => 3.11
 
-**Install:**
+**Usage:**
 
 ```git clone https://github.com/Kyrch/Convert-Video.git```
 
